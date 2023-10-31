@@ -1,0 +1,12 @@
+{
+  "admin@obaid.com": {
+    "username": "Obaid",
+    "password": "admin",
+    "role": "admin"
+  },
+  "user@obaid.com": {
+    "username": "Sabit",
+    "password": "user",
+    "role": "subscriber"
+  }
+}
